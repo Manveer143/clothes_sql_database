@@ -43,5 +43,4 @@ The database consists of **seven key tables**:
 
 📧 Email: amanveerkaur786@gmail.com 
 
-## 📜 License  
-This project is licensed under the **MIT License** – feel free to modify and use it!  
+
